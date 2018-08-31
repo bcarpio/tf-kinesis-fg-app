@@ -1,0 +1,4 @@
+flask
+cherrypy
+boto3
+botocore
